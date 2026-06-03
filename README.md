@@ -29,14 +29,17 @@
 - **Have a lot of money**
 
 ## 📚 Projects
-<div align="center">
+<div align="left">
   I don't have anything to show yet, but I will in the near future.
+</div>
   <br><br>
+<div align="center">
+  <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/859b21bb-f298-4c86-a3ae-115a64431234" />
   <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/6e37bae2-b866-47c8-8dd5-7be81e1f4c03" />
 </div>
 
 ## Currently Enjoying 🎵
-<div align="center">
+<div  align="center">
   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/813f73e5-3092-4406-9cc0-9f68338e92c0" />
   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1b32dce6-d58d-4fe2-a70f-c7d2ce70fd33" />
   <br>
