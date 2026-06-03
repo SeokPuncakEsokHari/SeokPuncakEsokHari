@@ -9,7 +9,7 @@
     <td width="35%" valign="middle" align="center">
      <b>Park Hyungseok Second Body.</b> 
       <br><br>
-     Terror of 2nd Generation
+     Terror of 2nd Generations
       <br><br>
            Also Known As
       <br><br>
